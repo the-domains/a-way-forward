@@ -6,9 +6,9 @@ color:
   saturation: 0.08533074450679123
   rhythmicContrast: 0.6607956381049007
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: A Way Forward
