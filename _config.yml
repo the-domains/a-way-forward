@@ -12,5 +12,9 @@ color:
     - '#A2E3C4'
 layout_spectrum: 0.48307253094390035
 name: A Way Forward
+navigation:
+  - name: Twitter
+    url: 'http://twitter.com/ashishjoy'
+    type: external
 title: A Way Forward
 description: online home of @ashishjoy
