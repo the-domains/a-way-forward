@@ -1,4 +1,3 @@
-layout_spectrum: 0.48307253094390035
 typography_spectrum: 0.7295639908406883
 color:
   brandStrength: 0.9775012694299221
@@ -6,9 +5,11 @@ color:
   saturation: 0.06924993149004877
   rhythmicContrast: 0.5875975666567683
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+layout_spectrum: 0.48307253094390035
 name: A Way Forward
+title: A Way Forward
