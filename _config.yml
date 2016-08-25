@@ -1,16 +1,14 @@
-typography_spectrum: 0.6845207014121115
+layout_spectrum: 0.48307253094390035
+typography_spectrum: 0.7295639908406883
 color:
-  brandStrength: 0.7116337188053876
-  lightness: 0.7716615505050868
-  saturation: 0.08533074450679123
-  rhythmicContrast: 0.6607956381049007
+  brandStrength: 0.9775012694299221
+  lightness: 0.4046529142651707
+  saturation: 0.06924993149004877
+  rhythmicContrast: 0.5875975666567683
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-layout_spectrum: 0.034037654055282474
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: A Way Forward
-title: A Way Foward
-description: online home of @ashishjoy
