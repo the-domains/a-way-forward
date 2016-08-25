@@ -16,5 +16,8 @@ navigation:
   - name: Twitter
     url: 'http://twitter.com/ashishjoy'
     type: external
+  - name: Facebook
+    url: 'http://facebook.com/ashishjoy'
+    type: external
 title: A Way Forward
 description: online home of @ashishjoy
